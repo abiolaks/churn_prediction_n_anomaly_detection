@@ -9,3 +9,8 @@ DAO Assement Case Studies
 4. carry out query on the full table
 5. carry feature engineering on the table
 6. 
+
+
+
+Case Study 2
+
